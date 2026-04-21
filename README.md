@@ -1,2 +1,1 @@
-# Portfolio-temp
-Welcome, this is my portfolio
+# Welcome, this is my Portfolio
