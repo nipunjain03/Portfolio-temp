@@ -1,2 +1,2 @@
 # Portfolio-temp
-hello, welcome to my portfolio
+Welcome, this is my portfolio
